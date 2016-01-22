@@ -1,7 +1,7 @@
 name: BALcanOSH.net
 favicon: null
-layout_spectrum: 0.4693448774050921
-typography_spectrum: 0.19730527140200138
+layout_spectrum: 0.39322
+typography_spectrum: 0.06447
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#FAD8D6'
   brandStrength: 0.3125
   lightness: 0.2171487221494317
-  saturation: 0.03239291161298752
+  saturation: 0.125
   rhythmicContrast: 0.7247730698436499
 purpose: []
