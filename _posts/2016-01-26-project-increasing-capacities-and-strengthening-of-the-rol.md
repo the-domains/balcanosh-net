@@ -6,15 +6,15 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T12:36:28.808Z'
-dateModified: '2016-01-26T12:36:05.582Z'
+datePublished: '2016-02-03T20:20:27.132Z'
+dateModified: '2016-02-03T20:20:17.733Z'
 title: 'Project: “Increasing capacities and strengthening of the role of the regional CSOs for improvement  of the labour conditions and dialogue with Public Institutions”'
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 author: []
 sourcePath: _posts/2016-01-26-project-increasing-capacities-and-strengthening-of-the-rol.md
 published: true
