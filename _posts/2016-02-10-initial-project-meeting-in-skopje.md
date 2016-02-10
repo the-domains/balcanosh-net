@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Initial Project meeting with all Project partners and Associate Partners
-datePublished: '2016-02-10T15:22:37.792Z'
-dateModified: '2016-02-10T15:22:30.515Z'
+datePublished: '2016-02-10T16:58:50.125Z'
+dateModified: '2016-02-10T16:57:36.994Z'
 title: Initial Project meeting in Skopje
 author: []
 sourcePath: _posts/2016-02-10-initial-project-meeting-in-skopje.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: initial-project-meeting-in-skopje/index.html
 _type: Article
 
