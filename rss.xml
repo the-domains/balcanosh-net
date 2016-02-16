@@ -4,11 +4,18 @@
         <description><![CDATA[Balkan Occupational Safety and Health Movement]]></description>
         <link>https://thegrid.ai/balcanosh-net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 14:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 14:07:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/balcanosh-net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[United we stand]]></title>
+            <description><![CDATA[<article><h1>United we stand</h1><p>Dear colleagues,</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff1428ed3e0594bf4e76e92fe890da234ff99dca.png"></article>]]></description>
+            <link>https://thegrid.ai/balcanosh-net/united-we-stand/index.html</link>
+            <guid isPermaLink="false">7bde400f-3f5e-472d-996e-3a9c25b016ed</guid>
+            <pubDate>Tue, 16 Feb 2016 14:07:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Initial Project meeting in Skopje]]></title>
-            <description><![CDATA[<article><h1>Initial Project meeting in Skopje</h1><p>During February 8th and 9th 2016 we had very nice opportunity to meet each other in Skopje, and first hand to discuss starting the regional project. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b244615be70c4b80912abb834e0e8d2bb265e469.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Initial Project meeting in Skopje</h1><p>During February 8th and 9th 2016 we had very nice opportunity to meet each other in Skopje, and first hand to discuss starting the regional project. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51405d78ee9f1d04eaf98358f31b8452d23f7be8.jpg"></article>]]></description>
             <link>https://thegrid.ai/balcanosh-net/initial-project-meeting-in-skopje/index.html</link>
             <guid isPermaLink="false">33151d77-a91e-4319-aeee-5a57771969c2</guid>
             <pubDate>Tue, 16 Feb 2016 14:07:02 GMT</pubDate>
@@ -27,13 +34,6 @@ Communication Expert </p></article>]]></description>
             <link>https://thegrid.ai/balcanosh-net/project-increasing-capacities-and-strengthening-of-the-rol/index.html</link>
             <guid isPermaLink="false">ec136301-752e-4638-be10-c0a4b3d0e304</guid>
             <pubDate>Wed, 03 Feb 2016 20:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[United we stand]]></title>
-            <description><![CDATA[<article><h1>United we stand</h1><p>Dear colleagues,</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff1428ed3e0594bf4e76e92fe890da234ff99dca.png"></article>]]></description>
-            <link>https://thegrid.ai/balcanosh-net/united-we-stand/index.html</link>
-            <guid isPermaLink="false">7bde400f-3f5e-472d-996e-3a9c25b016ed</guid>
-            <pubDate>Fri, 22 Jan 2016 16:08:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
