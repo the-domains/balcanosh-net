@@ -1,5 +1,8 @@
+name: BALcanOSH.net
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.890681
 title: Balkan Occupational Safety and Health Movement
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-72925434-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0.6810036
-  lightness: 0.5
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  brandStrength: 1
+  lightness: 0.6875
+  saturation: 1
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-72925434-1
-  facebook: null
-favicon: null
-name: BALcanOSH.net
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.890681
-layout_spectrum: 1
+purpose: []
