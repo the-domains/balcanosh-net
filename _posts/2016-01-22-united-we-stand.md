@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: OSH; Balkan; Regional colaboration
-datePublished: '2016-01-22T16:08:16.515Z'
-dateModified: '2016-01-22T16:03:27.990Z'
+datePublished: '2016-02-16T14:07:14.231Z'
+dateModified: '2016-01-26T12:45:55.380Z'
 title: United we stand
 author: []
 authors: []
